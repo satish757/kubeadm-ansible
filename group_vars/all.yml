@@ -37,7 +37,7 @@ kube_addon_dir: /etc/kubernetes/addon
 
 # Additional feature to install
 additional_features:
-  helm: false
+  helm: true
   metallb: false
   healthcheck: false
 
